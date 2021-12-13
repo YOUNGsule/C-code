@@ -4,7 +4,7 @@
 #define N 50
 void rnd(int*a)
 {
-int i;
+int  i;
 srand(time(0));
 for(i=0;i<N;i++)
 {
